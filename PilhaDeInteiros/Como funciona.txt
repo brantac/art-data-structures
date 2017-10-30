@@ -1,0 +1,10 @@
+- Como funciona a estrutura?
+A pilha é uma estrutura de dados do tipo LIFO (Last In First Out) que possui
+como operações básicas a inserção e remoção. Ser do tipo LIFO significa que o
+último dado a entrar, portanto o que está no topo, é o primeiro a sair. Isso
+garante que seja possível recuperar os dados na ordem de trás pra frente.
+
+- Porque todos os métodos executados rodam em O(1)?
+Os métodos básicos são executados em O(1) porque o tempo das suas operações não
+dependem do tamanho da estrutura. Acessar o topo da pilha é uma operação direta,
+que não necessita iterar por todos os elementos até alcança-lo.
