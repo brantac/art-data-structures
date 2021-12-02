@@ -1,8 +1,4 @@
-# data_structure
-I'll be sharing small codes that I wrote to learn some data structures. You may see them written in more than one language. Sometimes I can upload some pseudocode as well.
+# What is Art Data Structures
+It's a project that will be used to study and practice common data structures in the field of Computer Science, through coding or pseudocode. Data structures may be written in more than than one language.
 
-## What can you expect to see here?
-Most of the data structures I learned during college, so I'll do my best to make them as accessible and easy to learn as possible.
-
-## Contact
-[Twitter](https://twitter.com/arthurclbr).
+***Note: This project doesn't have anything to do with data structures specific to arts. The 'Art' in the project's title it's just a name.***
