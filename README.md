@@ -1,8 +1,8 @@
-# data_structure_practice
-I'll be sharing small codes that I wrote to learn and practice data structure. From the basics to more complex.
+# data_structure
+I'll be sharing small codes that I wrote to learn some data structures. You may see them written in more than one language. Sometimes I can upload some pseudocode as well.
 
 ## What can you expect to see here?
-You can expect to see straight forward code that implement some kind of data structure. The most common language used to implement these data structure is C, but you may find in another languages. But don't worry, they are all separated in their own directories.
+Most of the data structures I learned during college, so I'll do my best to make them as accessible and easy to learn as possible.
 
-## Why are you sharing this?
-Because I don't want to keep all my code only in my computer and because maybe someone can learn and get something from it. If you want to discuss something, get an insight about my code or even give me some advices, feel free to reachout to me through [Twitter](https://twitter.com/arthurclbr).
+## Contact
+[Twitter](https://twitter.com/arthurclbr).
